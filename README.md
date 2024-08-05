@@ -43,9 +43,3 @@ Hi, I'm Rodrigo Padilha and I'm currently studying Computer Networks whose goal 
 </p>
 
 ---
-
-###
-
-<p align="center">
- <img width="1000" src=".github/workflows/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
