@@ -34,7 +34,7 @@ I'm currently focused on exploring web applications and low-level languages such
 ### Stats:
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=pad1ryoshi&style=for-the-badge&color=black" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=pad1ryoshi&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 ---
