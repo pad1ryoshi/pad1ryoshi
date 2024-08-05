@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Chocapikk/count.svg" alt="Visitors">
+  <img src="https://profile-counter.glitch.me/pad1ryoshi/count.svg" alt="Visitors">
 </p>
 
 ### About me:
