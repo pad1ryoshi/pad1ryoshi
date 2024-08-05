@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/pad1ryoshi/count.svg" alt="Visitors">
 </p>
+
 ---
 ### About me:
 
@@ -19,6 +20,7 @@ Hi, I'm Rodrigo Padilha and I'm currently studying Computer Networks whose goal 
   <a href = "mailto:rodripadidev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/watch?v=dkObgKrscpk&pp=ygUPZXZlcnl0aGluZyBlbmRz" target="_blank"><img src="https://img.shields.io/badge/OnlyFans-%231877F2.svg?&style=for-the-badge&logo=onlyfans&logoColor=white" target="_blank"></a> 
 </div>
+
 ---
 ### My way:
 
