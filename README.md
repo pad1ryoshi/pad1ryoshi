@@ -43,3 +43,6 @@ Hi, I'm Rodrigo Padilha and I'm currently studying Computer Networks whose goal 
 </p>
 
 ---
+
+###
+![Snake animation](https://github.com/pad1ryoshi/pad1ryohsi/blob/output/github-contribution-grid-snake.svg)
