@@ -22,7 +22,7 @@ Hi, I'm Rodrigo Padilha and I'm currently studying Computer Networks whose goal 
 </div>
 
 ---
-### My way:
+### Focus on:
 
 I'm currently focused on exploring web applications and low-level languages such as C and Assembly.
 
@@ -31,6 +31,12 @@ I'm currently focused on exploring web applications and low-level languages such
 | C | Bash |
 | ---- | ---- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/> |
+
+### OS:
+
+| Linux | Windows |
+| ---- | ---- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows11" width="55" height="55"/> |
 
 ---
 ### Stats:
