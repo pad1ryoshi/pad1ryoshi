@@ -43,3 +43,11 @@ Hi, I'm Rodrigo Padilha and I'm currently studying Computer Networks whose goal 
 </p>
 
 ---
+
+### Fav Repositories:
+
+<div width="100%" align="center">
+  <a align="right" href="https://www.github.com/pad1ryoshi/bug-hunting" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pad1ryoshi&repo=bug-hunting&theme=hacker&border_color=61dafb&border_radius=10"></a>
+</div>
+
+
