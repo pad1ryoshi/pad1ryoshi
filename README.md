@@ -2,6 +2,7 @@
 
 # Brazilian hacker and future Offensive Security Engineer
 <br>
-## About me
 
-Hi, I'm Rodrigo Padilha and I'm currently studying Computer Networks
+### About me:
+
+Hi, I'm Rodrigo Padilha and I'm currently studying Computer Networks whose goal is to become a Cybersecurity Engineer and a bug bounty hunter.
