@@ -33,8 +33,8 @@ I'm currently focused on exploring web applications and low-level languages such
 ---
 ### Stats:
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=pad1ryoshi&style=for-the-badge&color=orange" alt=""/>
-</div>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=pad1ryoshi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 ---
