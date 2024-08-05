@@ -39,7 +39,7 @@ Hi, I'm Rodrigo Padilha and I'm currently studying Computer Networks whose goal 
 ### Stats:
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=pad1ryoshi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=pad1ryoshi&theme=hacker&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=800">
 </p>
 
 ---
