@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=root@fbi.gov:~%23" alt="Introduction">
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Chocapikk/count.svg" alt="Visitors">
+</p>
+
 ### About me:
 
 Hi, I'm Rodrigo Padilha and I'm currently studying Computer Networks whose goal is to become a Cybersecurity Engineer and a bug bounty hunter.
