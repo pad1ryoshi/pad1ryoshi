@@ -13,10 +13,10 @@ Hi, I'm Rodrigo Padilha and I'm currently studying Computer Networks whose goal 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/rodrigo-padilha-5663152b6//" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
     </a>
     <a href="https://www.youtube.com/watch?v=dkObgKrscpk&pp=ygUPZXZlcnl0aGluZyBlbmRz" target="_blank">
-        <img src="https://img.shields.io/badge/OnlyFans-%231877F2.svg?&style=for-the-badge&logo=onlyfans&logoColor=white" alt="Onlyfans" />
+        <img src="https://img.shields.io/badge/OnlyFans-%231877F2.svg?&style=for-the-badge&logo=onlyfans&logoColor=black" alt="Onlyfans" />
     </a>
 </div>
 
