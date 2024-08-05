@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=root@fbi.gov:~%23" alt="Introduction">
 </p>
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/pad1ryoshi/count.svg" alt="Visitors">
 </p>
@@ -34,6 +33,8 @@ I'm currently focused on exploring web applications and low-level languages such
 ---
 ### Stats:
 
-
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=pad1ryoshi&style=for-the-badge&color=white" alt=""/>
+</div>
 
 ---
