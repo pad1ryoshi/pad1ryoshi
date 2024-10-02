@@ -13,7 +13,7 @@
 ---
 ### About me:
 
-Hi, I'm Rodrigo Padilha and I'm currently studying Computer Networks whose goal is to become a Cybersecurity Engineer and a bug bounty hunter. I'm currently focused on exploring web applications and low-level languages such as C.
+Hi, I'm Rodrigo Padilha, Information Security Research and Open-Source Tool Maker. I'm currently studying Computer Networks whose goal is to become a Cybersecurity Engineer and a bug bounty hunter. I'm currently focused on exploring web applications and low-level languages such as C.
 
 
 <div align="center"> 
