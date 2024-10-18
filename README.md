@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=pad1ryoshi&title=Stars,Followers,Commits,Repositories,MultipleLang,PullReques,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Brazilian hacker and *future* Cyber Security Reseacher. 
+## Brazilian hacker and *future* Web Security Reseacher. 
 <br>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ---
 ### About me:
 
-Hi, I'm Rodrigo Padilha an Cyber Security Researcher and Open-Source Tool Maker. I'm currently studying Computer Networks whose goal is to become a Cybersecurity Engineer and a bug bounty hunter. I'm currently focused on exploring web applications, low-level languages such as C and making tools with Golang, Python and Bash.
+Hi, I'm Rodrigo Padilha an Web Security Researcher and Open-Source Tool Maker. I'm currently studying Computer Networks whose goal is to become a Cybersecurity Engineer and a bug bounty hunter. I'm currently focused on exploring web applications, low-level languages such as C and making tools with Golang, Python and Bash.
 
 
 <div align="center"> 
