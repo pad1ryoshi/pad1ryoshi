@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=pad1ryoshi&title=Stars,Followers,Commits,Repositories,MultipleLang,PullReques,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Brazilian hacker and *future* Web Security Reseacher. 
+## *future* Web Security Reseacher. 
 <br>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ---
 ### About me:
 
-Hi, I'm Rodrigo Padilha an Web Security Researcher and Open-Source Tool Maker. I'm currently studying Computer Networks whose goal is to become a Cybersecurity Researcher and a bug bounty hunter. I'm currently focused on exploring web applications, low-level languages such as C and making tools with Golang, Python and Bash. I am currently studying to get the Certified Bug Bounty Hunter (CBBH) certification from HackTheBox.
+Hi, I'm Rodrigo Padilha an Web Security Researcher and Open-Source Tool Maker. I'm currently studying Computer Networks whose goal is to become a Cybersecurity Researcher and a bug bounty hunter. I'm currently focused on exploring web applications, learning JavaScript and making tools with Python and Bash. I am currently studying to get the Certified Bug Bounty Hunter (CBBH) certification from HackTheBox.
 
 
 <div align="center"> 
@@ -27,9 +27,9 @@ Hi, I'm Rodrigo Padilha an Web Security Researcher and Open-Source Tool Maker. I
 
 ### Languages:
 
-| C | Bash |
+| JavaScript | Bash |
 | ---- | ---- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/> |
 
 ### OS:
 
