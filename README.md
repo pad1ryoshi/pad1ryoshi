@@ -15,7 +15,7 @@
 
 Hi, I'm Rodrigo Padilha an Web Security Researcher and Open-Source Tool Maker. I'm currently studying Computer Networks whose goal is to become a Cybersecurity Researcher and a bug bounty hunter. I'm currently focused on exploring web applications, learning JavaScript and making tools with Python and Bash. I am currently studying to get the Certified Bug Bounty Hunter (CBBH) certification from HackTheBox.
 
-### Hey
+### Hey:
 
 Don't be alarmed by the commits lol, I use github as a repository for study and research notes.
 
