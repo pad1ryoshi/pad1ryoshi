@@ -31,9 +31,9 @@ Don't be alarmed by the commits lol, I use github as a repository for study and 
 
 ### Languages:
 
-| JavaScript | Bash |
-| ---- | ---- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/> |
+| JavaScript | Bash | Python |
+| ---- | ---- | ---- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="55" height="55"> |
 
 ### OS:
 
