@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=pad1ryoshi&title=Stars,Followers,Commits,Repositories,MultipleLang,PullReques,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## *future* Web Security Reseacher. 
+## Web Security Student. 
 <br>
 
 <p align="center">
