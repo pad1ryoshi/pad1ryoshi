@@ -1,16 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=pad1ryoshi&title=Stars,Followers,Commits,Repositories,MultipleLang,PullReques,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Web Security Student. 
-<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=root@fbi.gov:~%23" alt="Introduction">
-</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/pad1ryoshi/count.svg" alt="Visitors">
-</p>
-
----
 ### About me:
 
 Hi, I'm Rodrigo Padilha an Web Security Student. I'm currently studying Computer Networks whose goal is to become a Web Security Researcher and a bug bounty hunter. I'm currently focused on exploring web applications, learning JavaScript and making tools with Bash. I am currently studying to get the Certified Bug Bounty Hunter (CBBH) certification from HackTheBox.
@@ -31,9 +20,9 @@ Don't be alarmed by the commits lol, I use github as a repository for study and 
 
 ### Languages:
 
-| JavaScript | Bash | Python |
+| JavaScript | Bash |
 | ---- | ---- | ---- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="55" height="55"> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/> |
 
 ### OS:
 
