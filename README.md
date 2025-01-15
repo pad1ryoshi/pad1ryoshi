@@ -31,13 +31,6 @@ Don't be alarmed by the commits lol, I use github as a repository for study and 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows11" width="55" height="55"/> |
 
 ---
-### Stats:
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=pad1ryoshi&theme=hacker&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=800">
-</p>
-
----
 
 ### Fav Repositories:
 
