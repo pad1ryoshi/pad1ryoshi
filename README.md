@@ -9,8 +9,6 @@ Hi, I'm Rodrigo Padilha an Web Security Student and AppSec Student.
   <a href = "mailto:rodripadidev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
----
-
 ### Languages:
 
 | C++ | JavaScript | Bash |
